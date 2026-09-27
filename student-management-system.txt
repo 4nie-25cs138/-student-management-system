@@ -1,3 +1,7 @@
 name : rakshitha
 branch : cse
 college : nie
+
+personal details:
+place: mysuru
+phone number : 7996682963
