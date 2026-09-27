@@ -1,10 +1,11 @@
-name : rakshitha
-branch : cse
-college : nie
+name : xxxxxxxx
+branch : zzzzz
+college : yyyyyy
 
 personal details:
 
-place : Mysuru
+place : xxxxxxxxxx
 mobile number : xxxxxxxxxxx
+
 
 
