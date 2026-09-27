@@ -2,4 +2,9 @@ name : rakshitha
 branch : cse
 college : nie
 
+personal details:
+
+place : Mysuru
+mobile number : xxxxxxxxxxx
+
 
