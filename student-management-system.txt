@@ -1,11 +1,11 @@
-name : xxxxxxxx
-branch : zzzzz
-college : yyyyyy
+name : Pavi
+branch : cse
+college : nie
 
 personal details:
 
-place : xxxxxxxxxx
-mobile number : xxxxxxxxxxx
+place : mysuru
+mobile number : 5487121554
 
 
 
