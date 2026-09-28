@@ -1,3 +1,4 @@
+personal_details
 name : Rakshitha N
 branch : CSE
 college : NIE
@@ -5,7 +6,15 @@ college : NIE
 personal details:
 
 place : Mysuru
-mobile number : 9852472387
+mobile number : 985247238
+name : Pavi
+branch : cse
+college : nie
+
+personal details:
+
+place : mysuru
+mobile number : 5487121554
 
 
 
