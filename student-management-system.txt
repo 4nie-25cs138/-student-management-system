@@ -1,11 +1,11 @@
-name : xxxxxxxx
-branch : zzzzz
-college : yyyyyy
+name : Rakshitha N
+branch : CSE
+college : NIE
 
 personal details:
 
-place : xxxxxxxxxx
-mobile number : xxxxxxxxxxx
+place : Mysuru
+mobile number : 9852472387
 
 
 
