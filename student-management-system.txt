@@ -1,11 +1,11 @@
-name : xxxxxxxx
-branch : zzzzz
-college : yyyyyy
+name :Pavithra S
+branch : CSE
+college : NIE
 
 personal details:
 
-place : xxxxxxxxxx
-mobile number : xxxxxxxxxxx
+place : Mysore
+mobile number : 5482158228
 
 
 
